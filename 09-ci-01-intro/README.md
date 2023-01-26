@@ -31,7 +31,8 @@
 
 Если всё отработало в рамках ожидания - выгрузить схемы workflow для импорта в XML. Файлы с workflow приложить к решению задания.
 
-
+https://github.com/apriemysheva/mnt-homeworks/blob/master/09-ci-01-intro/bug.xml
+https://github.com/apriemysheva/mnt-homeworks/blob/master/09-ci-01-intro/Epic.xml
 ---
 
 ### Как оформить ДЗ?
